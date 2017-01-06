@@ -1,7 +1,9 @@
 # zaragoza-bus-info
 
 Zaragoza's bus info app.
-Developed in Swift 3.0 under Xcode 8.O
+
+Developed in Swift 3.0 under Xcode 8.O.
+
 You'll need CocoaPods to install the dependencies
 
 ### CocoaPods
