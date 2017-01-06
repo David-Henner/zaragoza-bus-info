@@ -2,11 +2,9 @@
 
 Zaragoza's bus info app.
 
-Developed in Swift 3.0 under Xcode 8.O.
+Developed in Swift 3.0 under Xcode 8.0.
 
 You'll need CocoaPods to install the dependencies
-
-### CocoaPods
 
 [CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
 
@@ -19,5 +17,5 @@ Then, in the project folder, run the following command:
 $ pod install
 ```
 
-then, open the `zaragoza\ bus\ info.xcworkspace`.
+then, open the `zaragoza\ bus\ info.xcworkspace` and run the project.
 
